@@ -34,15 +34,15 @@
 
 <p align="center">
     <a href="https://github.com/MangKong-coder/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MangKong-coder&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="James Domingo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MangKong-coder&theme=blueberry&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/MangKong-coder/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MangKong-coder&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MangKong-coder/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangKong-coder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/MangKong-coder/github-readme-stats"><img alt="James's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MangKong-coder&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MangKong-coder/github-readme-stats"><img alt="James Domingo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangKong-coder&langs_count=8&count_private=true&layout=compact&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 
@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/MangKong-coder/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MangKong-coder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MangKong-coder/github-readme-activity-graph"><img alt="James Domingo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MangKong-coder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -64,19 +64,3 @@
 
 </p>
 
-
-
-<!--
-**MangKong-coder/MangKong-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
