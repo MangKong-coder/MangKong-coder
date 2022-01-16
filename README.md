@@ -18,15 +18,10 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+     <img src="https://img.icons8.com/color/50/000000/golang.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
     <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
-     <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    
 </p>
 
 
