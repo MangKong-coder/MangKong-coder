@@ -21,7 +21,6 @@
      <img src="https://img.icons8.com/color/50/000000/golang.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
     <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </p>
 
 
