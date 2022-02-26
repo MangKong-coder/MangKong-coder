@@ -51,6 +51,5 @@
 <a href = "https://mail.google.com/mail/u/0/?fs=1&to=domango1214@gmail.com&tf=cm"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 
      
-
 </p>
 
