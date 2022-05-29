@@ -47,7 +47,7 @@
 
 <a href = "https://www.facebook.com/profile.php?id=100061256145367"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "https://mail.google.com/mail/u/0/?fs=1&to=domango1214@gmail.com&tf=cm"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-<a href = "https://www.linkedin.com/in/james-domingo-90b9b3225/"><img src="https://img.icons8.com/fluency/96/000000/linkedin-circled.png"/> </a>'
+<a href = "https://www.linkedin.com/in/james-domingo-90b9b3225/"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/> </a>
 
 
 </p>
