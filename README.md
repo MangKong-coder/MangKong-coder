@@ -39,7 +39,6 @@
   <a href="https://github.com/MangKong-coder/github-readme-stats"><img alt="James Domingo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangKong-coder&langs_count=8&count_private=true&layout=compact&theme=blueberry&hide_border=true&bg_color=#242938" /></a>
   <br/>
   
-
 <br/>
 <br/>
 
