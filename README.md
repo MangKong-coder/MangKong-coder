@@ -4,9 +4,11 @@
 
 - 📚 I’m currently a high school student
 
-- 👨‍💻 I love working on the backend, such as API development, database administration, and etc.
+- 👨‍💻 I'm a fullstack developer
 
-- 🏗️ I am currently learning about various technologies and working on personal projects
+- 🏗️ I am currently learning about various technologies and working on different things that peek my interest
+
+- 💗 I love animanga, kpop, and most especially the Go Gopher
 
 <br>
 
