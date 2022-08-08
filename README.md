@@ -50,5 +50,3 @@
 <a href = "https://www.linkedin.com/in/james-domingo-90b9b3225/"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/> </a>
 
 </p>
-
-
